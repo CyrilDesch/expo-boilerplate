@@ -26,9 +26,9 @@
 The project is _super_ helpful to kick-start your next project, as it provides a lot of the common tools you may reach for, all ready to go. Specifically :
 
 - **Flux architecture (boilerplate contains example)**
-  - Application logic is stored on services folder
-  - Navgiation is stored on router folder
-  - UI are stored on component and view folder / View folder follow the routing tree
+  - Application logic is stored on **services** folder
+  - Navgiation is stored on **router** folder
+  - UI are stored in **views** and **components** folder (**view** folder follow the routing tree)
 - **Flux architecture**
   - [Context](https://reactjs.org/docs/context.html)
   - With a smart Context management
