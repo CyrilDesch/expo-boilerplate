@@ -44,7 +44,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
   - Expo & EAS
 - **GIT**
   - Husky and Commitizen to format commit message
-  - GitHub action to start linter on MR and branch development / production
+  - GitHub action to start linter on PR and branches
 - **Others**
   - date-fns / react-native-dotenv / axios / required libs of Expo
 

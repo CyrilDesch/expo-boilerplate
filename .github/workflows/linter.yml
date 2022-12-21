@@ -1,10 +1,6 @@
 name: Linter
 
-on:
-  push:
-    branches:
-      - development
-      - production
+on: [push, pull_request]
 
 jobs:
   build:
