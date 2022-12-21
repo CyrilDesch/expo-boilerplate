@@ -55,14 +55,14 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 
 ```bash
 # Create Expo project with this template
-npx create-expo-app --template @cyril-deschamps/expo-boilerplate
+yarn create expo-app --template @cyril-deschamps/expo-boilerplate
 ```
 
 - Install Husky
 
 ```bash
 # Create Expo project with this template
-npx husky install
+yarn run husky install
 ```
 
 ## 👊 Further Help?
