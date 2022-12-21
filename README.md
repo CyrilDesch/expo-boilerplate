@@ -44,7 +44,7 @@ The project is _super_ helpful to kick-start your next project, as it provides a
   - Expo & EAS
 - **GIT**
   - Husky and Commitizen to format commit message
-  - GitHub action to start linter on MR and branch development / production
+  - GitHub action to start linter on PR and branches
 - **Others**
   - date-fns / react-native-dotenv / axios / required libs of Expo
 
@@ -55,14 +55,14 @@ The project is _super_ helpful to kick-start your next project, as it provides a
 
 ```bash
 # Create Expo project with this template
-npx create-expo-app --template @cyril-deschamps/expo-boilerplate
+yarn create expo-app --template @cyril-deschamps/expo-boilerplate
 ```
 
 - Install Husky
 
 ```bash
 # Create Expo project with this template
-npx husky install
+yarn run husky install
 ```
 
 ## 👊 Further Help?
