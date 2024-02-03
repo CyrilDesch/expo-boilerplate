@@ -1,3 +1,5 @@
+<h1>Not maintained</h1>
+
 <div align="center">
   <p></p>
   <h1>Expo Boilerplate</h1>
