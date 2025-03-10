@@ -142,7 +142,7 @@ export const ProvideAuth = ({
   children,
 }: {
   children: ReactNode;
-}): JSX.Element => {
+}): React.JSX.Element => {
   const authAPI = useProvideAuth();
 
   return (

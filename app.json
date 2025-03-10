@@ -1,18 +1,17 @@
 {
   "expo": {
-    "name": "OrgaTrips",
-    "slug": "OrgaTrips",
+    "name": "todochangeprojectname",
+    "slug": "todochangeprojectname",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "orgatrips",
+    "scheme": "com.cyrildeschamps.todochangeprojectname",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "entryPoint": "index.js",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -26,8 +25,7 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/images/favicon.png"
-    }
+    "plugins": ["expo-font", "expo-asset", "expo-router"],
+    "newArchEnabled": true
   }
 }

@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-import { Text, View } from "../components/Themed";
+import { Text, View } from "../services/ui/Themed";
 import { RootStackScreenProps } from "../router/RootNavigator";
 
 const Hello = ({}: RootStackScreenProps<"Hello">) => {
